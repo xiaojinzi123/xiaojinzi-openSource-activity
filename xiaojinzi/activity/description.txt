@@ -1,0 +1,7 @@
+依赖eBus项目
+clone地址:https://github.com/xiaojinzi123/xiaojinzi-openSource-eBus.git
+浏览器网址:https://github.com/xiaojinzi123/xiaojinzi-openSource-eBus
+
+依赖viewAnnotation项目
+clone地址:https://github.com/xiaojinzi123/xiaojinzi-openSource-viewAnnotation.git
+浏览器网址:https://github.com/xiaojinzi123/xiaojinzi-openSource-viewAnnotation
